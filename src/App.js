@@ -11,6 +11,7 @@ function App() {
          <img src={passport} className='maria-passport' alt='passport-photo'/>
       </header>
       <footer><b>Hello world</b></footer>
+      <div><p>make changes to this file</p></div>
     </div>
   );
 }
